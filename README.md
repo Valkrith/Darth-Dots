@@ -4,5 +4,5 @@ This is a simple dark theme I came up with the help of pywal and and stealing co
 
 ##  Screenshots
 
-![alt text](https://raw.githubusercontent.com/Valkrith/Darth-Dots/screen.png)
-![alt text](https://raw.githubusercontent.com/Valkrith/Darth-Dots/screenshot.png)
+![alt text](https://github.com/Valkrith/Darth-Dots/blob/master/screen.png)
+![alt text](https://github.com/Valkrith/Darth-Dots/blob/master/screenshot.png)
