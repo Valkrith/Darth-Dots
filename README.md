@@ -1,6 +1,6 @@
 # Darth Vader theme
 
-This is a simple dark theme I came up with the help of pywal and and stealing config files.
+This is a simple dark theme I came up with the help of pywal and and stealing config files.. alot of config files.
 
 ##  Screenshots
 
