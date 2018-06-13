@@ -1,0 +1,35 @@
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+XTerm.vt100.faceName: Droid Sans Mono:antialias=true:size=9
+
+URxvt*font:		xft:Droid Sans Mono:antialias=true:size=9
+
+URxvt*scrollBar:        false
+URxvt*internalBorder:   10
+URxvt.urgentOnBell: 	True
+
+*foreground:  	#cfdad3
+*background:  	#120a12
+
+! Colors 0-15.
+*color0:  #120a12
+*color1:  #BD3668
+*color2:  #427089
+*color3:  #977186
+*color4:  #4FA395
+*color5:  #6899A3
+*color6:  #96B7B3
+*color7:  #cfdad3
+*color8:  #909893
+*color9:  #BD3668
+*color10:  #427089
+*color11:  #977186
+*color12:  #4FA395
+*color13:  #6899A3
+*color14:  #96B7B3
+*color15:  #cfdad3
