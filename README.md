@@ -9,7 +9,7 @@ This is a simple dark theme I came up with the help of pywal and stealing config
 ![alt text](https://github.com/Valkrith/Darth-Dots/blob/master/screenshot.png)
 
 ### Qutebrowser is my main
-![alt text](https://github.com/Valkrith/Darth-Dots/blob/master/screenshot-rofi.png)
+![alt text](https://github.com/Valkrith/Darth-Dots/blob/master/screenshot-qute.png)
 
 
 ### Firefox
