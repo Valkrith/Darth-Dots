@@ -1,0 +1,421 @@
+Jun 11 07:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 07:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 07:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 07:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 07:15 : player: played "Parody (Copyright Free).mp3"
+Jun 11 07:18 : player: played "Parody (Copyright Free).mp3"
+Jun 11 08:05 : player: played "Parody (Copyright Free).mp3"
+Jun 11 09:15 : player: played "Parody (Copyright Free).mp3"
+Jun 11 15:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 16:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 21:28 : player: played "Parody (Copyright Free).mp3"
+Jun 11 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 22:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 06:51 : update: removing Parody (Copyright Free).mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/07 - Down - Yelawolf.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/13 - Till It's Gone - Yelawolf.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/05 - Y'all Ready Know - Slaughterhouse.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/10 - Twisted - Skylar Grey, Eminem, Yelawolf.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/03 - Die Alone - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/02 - Psychopath Killer - Slaughterhouse, Yelawolf.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/04 - Vegas - Eminem, Bad Meets Evil.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/08 - Bane - D12.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/11 - Right For Me - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/09 - Fine Line - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/12 - Detroit Vs. Everybody - Eminem, Royce Da 5'9, Big Sean, Brown, Danny, Loaf, Dej, Trick Trick.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/01 - Shadyxv - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/06 - Guts Over Fear - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/06 - Hammer Dance - Slaughterhouse.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/15 - Pop The Trunk - Yelawolf.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/16 - Lose Yourself (Original Demo Version) - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/03 - Lose Yourself (Soundtrack Version) - Eminem.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/13 - In Da Club - 50 Cent.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/12 - The Setup - Trice, Obie.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/02 - Purple Pills - D-12.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/09 - My Band - D-12.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/01 - I Get Money - 50 Cent.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/10 - Wanna Know - Trice, Obie.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/08 - You Don't Know - Eminem, 50 Cent, Cashis, Banks, Lloyd.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/07 - P.I.M.P. - 50 Cent.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/14 - Fight Music (Album Version (Explicit)) - D-12.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/04 - Cry Now (Shady Remix) - Trice, Obie, Kuniva, Creekwater, Bobby, Cashis, Stat Quo.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/11 - Wanksta (Soundtrack Version) - 50 Cent.mp3
+Jun 12 06:51 : update: added Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/05 - Let's Roll - Yelawolf.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/08 Still Sane.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/02 400 Lux.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/11 No Better.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/10 A World Alone.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/06 Team.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/05 Buzzcut Season.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/14 The Love Club.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/16 Swingin Party.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/15 Biting Down.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/04 Ribs.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/07 Glory and Gore.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/13 Million Dollar Bills.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/01 Tennis Court.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/09 White Teeth Teens.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/03 Royals.mp3
+Jun 12 06:51 : update: added Pure Heroine (Extended)/12 Bravado.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/07. We Ball (feat. Young Thug).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/08. These Scars (feat. Future and Guordan Banks).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/05. 1942 Flows.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/01. Wins & Losses.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/15. Ball Player (feat. Quavo).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/16. Made It From Nothing (feat. Teyana Taylor and Rick Ross).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/14. Open (feat. Verse Simmonds).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/04. Whatever You Need (feat. Chris Brown & Ty Dolla $ign).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/09. Connect The Dots (feat. Yo Gotti and Rick Ross).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/11. Never Lose (feat. Lihtz Kamraz).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/17. Price.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/06. Issues.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/12. Glow Up.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/10. Fall Thru.mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/03. Fuck That Check Up (feat. Lil Uzi Vert).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/13. Young Black America (feat. The-Dream).mp3
+Jun 12 06:51 : update: added Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/02. Heavy Heart.mp3
+Jun 12 06:52 : player: played "Parody (Copyright Free).mp3"
+Jun 12 06:59 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/01 - Shadyxv - Eminem.mp3"
+Jun 12 07:02 : exception: Failed to decode /home/valkrith/Music/Parody (Copyright Free).mp3
+Jun 12 07:02 : exception: nested: Failed to open /home/valkrith/Music/Parody (Copyright Free).mp3: No such file or directory
+Jun 12 07:02 : player: played "Parody (Copyright Free).mp3"
+Jun 12 07:03 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/01 - Shadyxv - Eminem.mp3"
+Jun 12 07:09 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/02 - Psychopath Killer - Slaughterhouse, Yelawolf.mp3"
+Jun 12 07:12 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/03 - Die Alone - Eminem.mp3"
+Jun 12 07:18 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/04 - Vegas - Eminem, Bad Meets Evil.mp3"
+Jun 12 07:22 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/05 - Y'all Ready Know - Slaughterhouse.mp3"
+Jun 12 07:27 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/06 - Guts Over Fear - Eminem.mp3"
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/06 LOYALTY. (FEAT. RIHANNA.).mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/05 FEEL..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/08 HUMBLE..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/13 GOD..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/02 DNA..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/09 LUST..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/14 DUCKWORTH..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/10 LOVE. (FEAT. ZACARI.).mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/07 PRIDE..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/04 ELEMENT..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/01 BLOOD..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/11 XXX. (FEAT. U2.).mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/03 YAH..mp3
+Jun 12 07:33 : update: added Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/12 FEAR..mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/10. - Liability (Reprise).mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/04. - The Louvre.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/11. - Perfect Places.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/08. - Writer In the Dark.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/05. - Liability.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/06. - Hard Feelings  Loveless.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/03. - Homemade Dynamite.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/02. - Sober.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/01. - Green Light.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/09. - Supercut.mp3
+Jun 12 07:33 : update: added Lorde - Melodrama (2017) Mp3.320kbps.[Hunter]/Lorde - Melodrama (2017) [Hunter]/07. - Sober II (Melodrama).mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/10. Sharp Edges.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/04. Battle Symphony.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/05. Invisible.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/03. Talking to Myself.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/06. Heavy (feat. Kiiara).mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/08. Halfway Right.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/09. One More Light.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/07. Sorry for Now.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/01. Nobody Can Save Me.mp3
+Jun 12 07:33 : update: added Linkin Park - One More Light (2017) [Mp3~320kbps]/Linkin Park - One More Light (2017)/02. Good Goodbye (feat. Pusha T & Stormzy).mp3
+Jun 12 07:38 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/01 BLOOD..mp3"
+Jun 12 07:41 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/02 DNA..mp3"
+Jun 12 07:43 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/03 YAH..mp3"
+Jun 12 07:47 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/04 ELEMENT..mp3"
+Jun 12 07:50 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/05 FEEL..mp3"
+Jun 12 07:54 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/06 LOYALTY. (FEAT. RIHANNA.).mp3"
+Jun 12 07:59 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/07 PRIDE..mp3"
+Jun 12 08:02 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/08 HUMBLE..mp3"
+Jun 12 08:07 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/09 LUST..mp3"
+Jun 12 08:10 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/10 LOVE. (FEAT. ZACARI.).mp3"
+Jun 12 13:34 : player: played "Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/01. Wins & Losses.mp3"
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/01 For Whom the Bell Tolls.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/05 She's Mine, Pt. 1.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/03 Deja Vu.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/07 Neighbors.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/09 She's Mine, Pt. 2.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/10 4 Your Eyez Only.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/06 Change.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/08 Foldin Clothes.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/02 Immortal.mp3
+Jun 12 14:55 : update: added J Cole - 4 Your Eyez Only (2016) Full Album Mp3 320Kbps Groo/04 Ville Mentality.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/05. Froze (Ft. Lil Uzi Vert & Nicki Minaj).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/12. Two Wrongs (Ft. Guordan Banks & Pusha T).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/04. Shine.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/13. Tony Story 3.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/09. Offended (Ft. Young Thug & 21 Savage).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/07. Lights Out (Ft. Don Q).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/01. On The Regular.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/14. Outro (Ft. Lil Snupe & French Montana).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/11. Way Up (Ft. Tracy T).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/10. You Know (Ft. YFN Lucci).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/03. Litty (Ft. Tory Lanez).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/02. Blessed Up.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/08. Blue Notes.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/06. The Difference (Ft. Quavo).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Basement Demos - Stickman (Alternate Version).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Baby Britain Single 1 - 03 - The Enemy Is You.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Waltz #2 (XO) Single - 03 - How to Take a Fall.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Let's Get Lost.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/3 Titres Inedits Promo - 03 - Happiness (Acoustic).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Yeti Zine Comp - Angel In The Snow.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Basement Demos - Twilight.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Basement Demos - Stickman.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Baby Britain Promo - Baby Britain (Remix).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Son of Sam Single - 03 - Figure 8.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Miss Misery (Piano version).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Basement Demos - Instrumental.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Miss Misery.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/& Pete Krebs - Shytown_No Confidence Man Single - 02 - No Confidence Man.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Baby Britain Single 2 - 03 - Bottle Up And Explode (Demo).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/I Didn't Understand (Accoustic).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Concrete Jungle (Bob Marley Cover).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Waltz #2 (XO) Single - 02 - Our Thing.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/between the bars.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Basement Demos - Everything's Okay.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/3 Titres Inedits Promo - 01 - I Can't Answer You Anymore.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Lucky 3 Video - Baby Britain (Instrumental).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Trouble.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Lucky 3 Video - Thirteen (Big Star Cover).mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Air Check Cassette - See You Later.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Southlander Soundtrack - Splitsville.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/& Pete Krebs - Shytown_No Confidence Man Single - 01 - Shytown.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/SomeSong.mp3
+Jun 12 14:55 : update: added Elliott Smith/B-Sides & Other Songs/Son of Sam Single - 02 - A Living Will.mp3
+Jun 12 14:55 : update: added Elliott Smith/Happiness Single/02 Son of Sam (Acoustic Single).mp3
+Jun 12 14:55 : update: added Elliott Smith/Happiness Single/01 Happiness (Single).mp3
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/04 Between The Bars.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/06 No Name No. 5.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/05 Pictures Of Me.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/10 Cupid's Trick.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/09 Angeles.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/03 Ballad Of Big Nothing.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/12 Say Yes.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/08 Punch And Judy.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/02 Alameda.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/11 2_45 A.M..m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/07 Rose Parade.m4a
+Jun 12 14:55 : update: added Elliott Smith/Either_Or/01 Speed Trials.m4a
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-09 Pretty Mary K (Other Version).mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-01 Georgia, Georgia.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-05 New Disaster.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-03 Big Decision.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-07 Fear City.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-06 Seen How Things Are Hard.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-12 Thirteen.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-10 Go By.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-02 Talking To Mary.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-11 Miss Misery (Early Version).mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-08 Either_Or.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-03 High Times.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-01 Angel In The Snow.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-06 Going Nowhere.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-04 Placeholder.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-05 Looking Over My Shoulder.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-07 Riot Coming.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-02 Whatever (Folk Song In C).mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-08 All Cleaned Out.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-10 Almost Over.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-09 First Timer.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-12 Half Right.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/2-11 See You Later.mp3
+Jun 12 14:55 : update: added Elliott Smith/New Moon/1-04 New Monkey.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/09 Twlight.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/14 Little One.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/12 Shooting Star.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/02 Let's Get Lost.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/03 Pretty (Ugly Before).mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/15 A Distorted Reality Is Now A Necessity To Be Free.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/05 Strung Out Again.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/04 Don't Go Down.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/08 Ostriches & Chirping.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/11 The Last Hour.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/10 A Passing Feeling.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/07 King's Crossing.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/06 A Fond Farwell.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/01 Coast To Coast.mp3
+Jun 12 14:55 : update: added Elliott Smith/From A Basement On The Hill/13 Memory Lane.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/09 Easy Way Out.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/14 I Better Be Quiet Now.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/15 Can't Make a Sound.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/06 LA.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/01 Son of Sam.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/04 Everything Reminds Me of Her.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/05 Everything Means Nothing To Me.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/11 Color Bars.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/13 Pretty Mary K.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/16 Bye.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/12 Happiness.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/03 Junk Bond Trader.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/02 Somebody That I Used To Know.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/08 Stupidity Tries.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/10 Wouldn't Mama Be Proud.mp3
+Jun 12 14:55 : update: added Elliott Smith/Figure 8/07 In The Lost and Found (Honky Bach).mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/10 Good To Go.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/07 Satellite.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/02 Christian Brothers.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/11 The White Lady Loves You More.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/04 Southern Belle.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/12 The Biggest Lie.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/03 Clementine.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/05 Single File.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/01 Needle In The Hay.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/06 Coming Up Roses.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/09 St. Ides Heaven.mp3
+Jun 12 14:55 : update: added Elliott Smith/Elliott Smith/08 Alphabet Town.mp3
+Jun 12 14:55 : update: added Elliott Smith/American Beauty/Because.mp3
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/03 No Name #1.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/04 No Name #2.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/05 No Name #3.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/02 Condor Ave..m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/08 Last Call.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/09 Kiwi Maddog 20_20.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/06 Drive All Over Town.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/01 Roman Candle.m4a
+Jun 12 14:55 : update: added Elliott Smith/Roman Candle/07 No Name #4.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/06 Independence Day.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/09 Amity.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/13 Everybody Cares, Everybody Understands.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/10 Oh Well, Okay.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/12 A Question Mark.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/04 Baby Britain.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/03 Waltz #2.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/02 Tomorrow Tomorrow.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/01 Sweet Adeline.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/11 Bottle Up And Explode.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/14 I Didn't Understand.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/07 Bled White.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/08 Waltz #1.m4a
+Jun 12 14:55 : update: added Elliott Smith/XO/05 Pitseleh.m4a
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/05 Believe It (feat. Rick Ross).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/15 Burn (feat. Big Sean) [Bonus Trac.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/02 In God We Trust.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/13 Rich & Famous (feat. Louie V).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/04 Traumatized.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/07 Amen (feat. Drake).mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/01 Dreams and Nightmares.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/11 Who You're Around (feat. Mary J.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/03 Young & Gettin' It (feat. Kirko B 1.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/14 Real N_____ Come First.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/06 Maybach Curtains (feat. Nas, John.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/10 Tony Story, Pt. 2.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/16 Freak Show (feat. Sam Sneak & 2 C.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/12 Polo & Shell Tops.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/09 Lay Up (feat. Wale, Rick Ross & T.mp3
+Jun 12 14:55 : update: added Meek Mill - Dreams and Nightmares (Deluxe Version) [iTunes] (320kbps) (2012-Album) [STumPZ-ReleaSe]/08 Young Kings.mp3
+Jun 12 15:27 : player: played "Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/08. Blue Notes.mp3"
+Jun 12 15:27 : exception: Failed to decode /home/valkrith/Music/Parody (Copyright Free).mp3
+Jun 12 15:27 : exception: nested: Failed to open /home/valkrith/Music/Parody (Copyright Free).mp3: No such file or directory
+Jun 12 15:27 : player: played "Parody (Copyright Free).mp3"
+Jun 12 15:27 : exception: Failed to decode /home/valkrith/Music/Parody (Copyright Free).mp3
+Jun 12 15:27 : exception: nested: Failed to open /home/valkrith/Music/Parody (Copyright Free).mp3: No such file or directory
+Jun 12 15:27 : player: played "Parody (Copyright Free).mp3"
+Jun 12 15:27 : exception: Failed to decode /home/valkrith/Music/Parody (Copyright Free).mp3
+Jun 12 15:27 : exception: nested: Failed to open /home/valkrith/Music/Parody (Copyright Free).mp3: No such file or directory
+Jun 12 16:23 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/02 - Psychopath Killer - Slaughterhouse, Yelawolf.mp3"
+Jun 12 16:27 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/03 - Die Alone - Eminem.mp3"
+Jun 12 16:32 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/04 - Vegas - Eminem, Bad Meets Evil.mp3"
+Jun 12 16:36 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/05 - Y'all Ready Know - Slaughterhouse.mp3"
+Jun 12 16:41 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/06 - Guts Over Fear - Eminem.mp3"
+Jun 12 16:45 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/07 - Down - Yelawolf.mp3"
+Jun 12 16:49 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/08 - Bane - D12.mp3"
+Jun 12 16:54 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/09 - Fine Line - Eminem.mp3"
+Jun 12 16:59 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/10 - Twisted - Skylar Grey, Eminem, Yelawolf.mp3"
+Jun 12 17:04 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/11 - Right For Me - Eminem.mp3"
+Jun 12 17:10 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/12 - Detroit Vs. Everybody - Eminem, Royce Da 5'9, Big Sean, Brown, Danny, Loaf, Dej, Trick Trick.mp3"
+Jun 12 17:15 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/13 - Till It's Gone - Yelawolf.mp3"
+Jun 12 17:20 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/03 - Lose Yourself (Soundtrack Version) - Eminem.mp3"
+Jun 12 17:28 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/05 - Let's Roll - Yelawolf.mp3"
+Jun 12 17:30 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/06 - Hammer Dance - Slaughterhouse.mp3"
+Jun 12 17:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 17:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 17:34 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/07 - P.I.M.P. - 50 Cent.mp3"
+Jun 12 17:38 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/08 - You Don't Know - Eminem, 50 Cent, Cashis, Banks, Lloyd.mp3"
+Jun 12 17:43 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/09 - My Band - D-12.mp3"
+Jun 12 17:47 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/10 - Wanna Know - Trice, Obie.mp3"
+Jun 12 20:47 : player: played "Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/14 - Fight Music (Album Version (Explicit)) - D-12.mp3"
+Jun 13 05:36 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/01 BLOOD..mp3"
+Jun 13 05:39 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/02 DNA..mp3"
+Jun 13 05:42 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/03 YAH..mp3"
+Jun 13 05:45 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/04 ELEMENT..mp3"
+Jun 13 05:49 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/05 FEEL..mp3"
+Jun 13 05:53 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/06 LOYALTY. (FEAT. RIHANNA.).mp3"
+Jun 13 06:02 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/07 PRIDE..mp3"
+Jun 13 06:05 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/08 HUMBLE..mp3"
+Jun 13 06:11 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/09 LUST..mp3"
+Jun 13 06:14 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/10 LOVE. (FEAT. ZACARI.).mp3"
+Jun 13 06:18 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/11 XXX. (FEAT. U2.).mp3"
+Jun 13 08:54 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/12 FEAR..mp3"
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/11 Cameras - Good Ones Go (Interlude).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/09 Make Me Proud (Feat. Nicki Minaj).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/12 Doing It Wrong.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/01 Over My Dead Body (Feat. Chantal Kreviazuk).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/08 Well Be Fine (Feat. Birdman).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/02 Shot For Me.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/05 Take Care (Feat. Rihanna).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/04 Crew Love (Feat. The Weekend).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/13 The Real Her (Feat. Lil Wayne & André 3000).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/07 Under Gound Kings.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/17 The Ride.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/10 Lord Knows (Feat. Rick Ross).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/15 HYFR (Hell Ya Fucking Right) (Feat. Lil Wayne).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/06 Marvins Room - Buried Alive (Interlude) (Feat. Kendrick Lamar).mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/03 Headlines.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/16 Practice.mp3
+Jun 13 08:57 : update: added Drake - Take Care (Deluxe Version) [Official Album][CD-Rip]/14 Look What Youve Done.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/03 - FYM (feat. Mystikal).mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/06 - Just Like You.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/12 - Forever.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/13 - I Need More.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/09 - Way To Go (feat. Snoh Aalegra).mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/15 - Sorry.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/14 - Literally.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/02 - Lovely.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/04 - Keep It 100.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/10 - Look What You Made Me Do (feat. Stephion Don).mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/01 - Ultrasound.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/07 - Just Because.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/11 - We Gon Be Alright.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/08 - Lullaby.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/05 - Winter Blues.mp3
+Jun 13 08:57 : update: added J0yner Lucas - 508-507-2209 - 2017/16 - One Lonely Night.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/11 - Drake - 305 To My City (Feat. Detail).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/16 - Drake - The Motion (Feat. Sampha).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/01 - Drake - Tuscan Leather.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/03 - Drake - Started From The Bottom.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/10 - Drake - The Language.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/15 - Drake - All Me (Feat. Big Sean & 2 Chainz).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/14 - Drake - Come Thru.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/06 - Drake - Worst Behavior.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/12 - Drake - Too Much (Feat. Sampha).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/05 - Drake - Own It.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/13 - Drake - Pound Cake-Paris Morton Music 2 (Feat. Jay-Z).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/07 - Drake - From Time (Feat. Jhene Aiko).mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/02 - Drake - Furthest Thing.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/04 - Drake - Wu-Tang Forever.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/09 - Drake - Connect.mp3
+Jun 13 08:57 : update: added Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/08 - Drake - Hold On, We're Going Home (Feat. Majid Jordan).mp3
+Jun 13 09:49 : player: played "Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/14 DUCKWORTH..mp3"
+Jun 13 09:53 : player: played "J0yner Lucas - 508-507-2209 - 2017/01 - Ultrasound.mp3"
+Jun 13 10:00 : player: played "J0yner Lucas - 508-507-2209 - 2017/02 - Lovely.mp3"
+Jun 13 10:04 : player: played "J0yner Lucas - 508-507-2209 - 2017/03 - FYM (feat. Mystikal).mp3"
+Jun 13 10:16 : player: played "J0yner Lucas - 508-507-2209 - 2017/06 - Just Like You.mp3"
+Jun 13 10:21 : player: played "J0yner Lucas - 508-507-2209 - 2017/08 - Lullaby.mp3"
+Jun 13 10:26 : player: played "J0yner Lucas - 508-507-2209 - 2017/16 - One Lonely Night.mp3"
+Jun 13 10:30 : player: played "Elliott Smith/Elliott Smith/01 Needle In The Hay.mp3"
+Jun 13 10:35 : player: played "Elliott Smith/Elliott Smith/02 Christian Brothers.mp3"
+Jun 13 10:43 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/01 - Drake - Tuscan Leather.mp3"
+Jun 13 10:48 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/02 - Drake - Furthest Thing.mp3"
+Jun 13 10:51 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/03 - Drake - Started From The Bottom.mp3"
+Jun 13 10:54 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/04 - Drake - Wu-Tang Forever.mp3"
+Jun 13 10:59 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/06 - Drake - Worst Behavior.mp3"
+Jun 13 11:04 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/07 - Drake - From Time (Feat. Jhene Aiko).mp3"
+Jun 13 11:08 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/08 - Drake - Hold On, We're Going Home (Feat. Majid Jordan).mp3"
+Jun 13 11:13 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/09 - Drake - Connect.mp3"
+Jun 13 11:17 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/10 - Drake - The Language.mp3"
+Jun 13 11:21 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/11 - Drake - 305 To My City (Feat. Detail).mp3"
+Jun 13 11:26 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/14 - Drake - Come Thru.mp3"
+Jun 13 11:30 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/15 - Drake - All Me (Feat. Big Sean & 2 Chainz).mp3"
+Jun 13 11:34 : player: played "Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/16 - Drake - The Motion (Feat. Sampha).mp3"

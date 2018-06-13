@@ -1,0 +1,151 @@
+[colors]
+
+background = #120a12
+background-alt = #58414F
+foreground = #CFDAD3
+foreground-alt = #977186
+
+accent = #BD3668
+alert = #E79260
+
+[bar/main]
+monitor = eDP1
+height = 27
+width = 100%
+fixed-center = true
+background = ${colors.background}
+foreground = ${colors.foreground}
+padding-left = 0
+padding-right = 4
+module-margin-left = 5
+module-margin-right = 0
+
+border-size =50
+border-bottom-size = 0
+border-top-size = 5
+
+radius = 2
+
+font-0 = Roboto:pixelsize=9;1
+font-1 = Material Design Icons:pixelsize=10;2
+font-2 = Icons:pixelsize=11;2
+
+;tray-position = right
+;tray-padding = 2
+;tray-background = ${colors.background}
+wm-restack = bspwm
+
+modules-left = bspwm
+modules-center = mpd 
+modules-right = cpu memory wireless-network battery time
+
+[module/bspwm]
+type = internal/bspwm
+
+label-focused = %name%
+label-focused-foreground= ${colors.accent}
+label-focused-background= ${colors.background}
+label-focused-padding = 3
+
+label-occupied = %name%
+label-occupied-padding = 3
+label-occupied-foreground= ${colors.foreground-alt}
+
+label-urgent = %name%
+label-urgent-background = ${colors.alert}
+label-urgent-padding = 3
+
+label-empty = %name%
+label-empty-foreground = ${colors.background-alt}
+label-empty-padding = 3
+
+[module/cpu]
+type = internal/cpu
+interval = 0.5
+format =  <label>
+format-foreground = ${colors.accent}
+label = %percentage%%
+label-1 = %percentage%%
+label-foreground = ${colors.foreground}
+
+[module/memory]
+type = internal/memory
+interval = 3
+format =  <label>
+format-foreground = ${colors.accent}
+label = %gb_used%
+label-foreground = ${colors.foreground}
+
+
+[module/wireless-network]
+type = internal/network
+interface = wlp3s0
+interval = 5
+format-connected =  <label-connected>
+format-connected-foreground = ${colors.accent}
+label-connected = %essid%
+label-connected-foreground = ${colors.foreground}
+format-disconnected = <label-disconnected>
+label-disconnected =  Disconnected
+label-disconnected-foreground = ${colors.foreground-alt}
+
+
+[module/battery]
+type = internal/battery
+full-at = 98
+battery = BAT1
+adapter = ACAD
+poll-interval = 60
+format-charging = <animation-charging> <label-charging>
+label-charging = %percentage%%
+label-full =  %percentage%%
+format-discharging = <ramp-capacity> <label-discharging>
+label-discharging = %percentage%%
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-5 = 
+ramp-capacity-6 = 
+ramp-capacity-7 = 
+ramp-capacity-8 = 
+ramp-capacity-foreground = ${colors.accent}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-5 = 
+animation-charging-framerate = 750
+animation-charging-foreground = ${colors.alert}
+
+
+[module/time]
+type = internal/date
+interval = 1.0
+time = %H:%M
+time-alt = %H:%M:%S
+format =  <label>
+format-foreground = ${colors.accent} 
+label = %time%
+label-foreground = ${colors.foreground} 
+
+
+[module/mpd]
+type = internal/mpd
+
+format-online = <icon-prev>     <toggle>  <label-song>     <icon-next>
+
+icon-prev = %{T3}%{T-}
+icon-next = %{T3}%{T-}
+icon-play = 
+icon-pause = 
+icon-prev-foreground = ${colors.accent}
+icon-next-foreground = ${colors.accent}
+icon-pause-foreground = ${colors.accent}
+label-song = %artist% - %title%
+label-song-maxlen = 45
+label-song-ellipsis = true

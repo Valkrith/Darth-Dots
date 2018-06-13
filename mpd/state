@@ -1,0 +1,120 @@
+sw_volume: 96
+audio_device_state:1:Pulseaudio
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/01 - Shadyxv - Eminem.mp3
+1:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/01 - Shadyxv - Eminem.mp3
+2:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/02 - Psychopath Killer - Slaughterhouse, Yelawolf.mp3
+3:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/03 - Die Alone - Eminem.mp3
+4:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/04 - Vegas - Eminem, Bad Meets Evil.mp3
+5:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/05 - Y'all Ready Know - Slaughterhouse.mp3
+6:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/06 - Guts Over Fear - Eminem.mp3
+7:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/07 - Down - Yelawolf.mp3
+8:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/08 - Bane - D12.mp3
+9:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/09 - Fine Line - Eminem.mp3
+10:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/10 - Twisted - Skylar Grey, Eminem, Yelawolf.mp3
+11:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/11 - Right For Me - Eminem.mp3
+12:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/12 - Detroit Vs. Everybody - Eminem, Royce Da 5'9, Big Sean, Brown, Danny, Loaf, Dej, Trick Trick.mp3
+13:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 1/13 - Till It's Gone - Yelawolf.mp3
+14:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/01 - I Get Money - 50 Cent.mp3
+15:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/02 - Purple Pills - D-12.mp3
+16:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/03 - Lose Yourself (Soundtrack Version) - Eminem.mp3
+17:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/04 - Cry Now (Shady Remix) - Trice, Obie, Kuniva, Creekwater, Bobby, Cashis, Stat Quo.mp3
+18:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/05 - Let's Roll - Yelawolf.mp3
+19:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/06 - Hammer Dance - Slaughterhouse.mp3
+20:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/07 - P.I.M.P. - 50 Cent.mp3
+21:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/08 - You Don't Know - Eminem, 50 Cent, Cashis, Banks, Lloyd.mp3
+22:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/09 - My Band - D-12.mp3
+23:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/10 - Wanna Know - Trice, Obie.mp3
+24:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/11 - Wanksta (Soundtrack Version) - 50 Cent.mp3
+25:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/12 - The Setup - Trice, Obie.mp3
+26:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/13 - In Da Club - 50 Cent.mp3
+27:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/14 - Fight Music (Album Version (Explicit)) - D-12.mp3
+28:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/15 - Pop The Trunk - Yelawolf.mp3
+29:Eminem - Shady XV (2014) (2 CD) [MP3 @ 320 KBPS]/CD 2/16 - Lose Yourself (Original Demo Version) - Eminem.mp3
+30:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/01 BLOOD..mp3
+31:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/02 DNA..mp3
+32:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/03 YAH..mp3
+33:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/04 ELEMENT..mp3
+34:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/05 FEEL..mp3
+35:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/06 LOYALTY. (FEAT. RIHANNA.).mp3
+36:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/07 PRIDE..mp3
+37:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/08 HUMBLE..mp3
+38:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/09 LUST..mp3
+39:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/10 LOVE. (FEAT. ZACARI.).mp3
+40:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/11 XXX. (FEAT. U2.).mp3
+41:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/12 FEAR..mp3
+42:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/13 GOD..mp3
+43:Kendrick Lamar - DAMN. (2017) [Mp3~320kbps]/Kendrick Lamar - DAMN. (2017)/14 DUCKWORTH..mp3
+44:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/01. Wins & Losses.mp3
+45:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/01. Wins & Losses.mp3
+46:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/02. Heavy Heart.mp3
+47:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/03. Fuck That Check Up (feat. Lil Uzi Vert).mp3
+48:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/04. Whatever You Need (feat. Chris Brown & Ty Dolla $ign).mp3
+49:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/05. 1942 Flows.mp3
+50:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/06. Issues.mp3
+51:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/07. We Ball (feat. Young Thug).mp3
+52:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/08. These Scars (feat. Future and Guordan Banks).mp3
+53:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/09. Connect The Dots (feat. Yo Gotti and Rick Ross).mp3
+54:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/10. Fall Thru.mp3
+55:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/11. Never Lose (feat. Lihtz Kamraz).mp3
+56:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/12. Glow Up.mp3
+57:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/13. Young Black America (feat. The-Dream).mp3
+58:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/14. Open (feat. Verse Simmonds).mp3
+59:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/15. Ball Player (feat. Quavo).mp3
+60:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/16. Made It From Nothing (feat. Teyana Taylor and Rick Ross).mp3
+61:Meek Mill - Wins & Losses (2017) (Mp3 320kbps) [Hunter] {786zx}/Meek Mill - Wins & Losses (2017) [Hunter]/17. Price.mp3
+62:Meek Mill - Dreamchasers 4 (DC4)/Meek Mill - Dreamchasers 4 (DC4)/08. Blue Notes.mp3
+63:J0yner Lucas - 508-507-2209 - 2017/01 - Ultrasound.mp3
+64:J0yner Lucas - 508-507-2209 - 2017/02 - Lovely.mp3
+65:J0yner Lucas - 508-507-2209 - 2017/03 - FYM (feat. Mystikal).mp3
+66:J0yner Lucas - 508-507-2209 - 2017/04 - Keep It 100.mp3
+67:J0yner Lucas - 508-507-2209 - 2017/05 - Winter Blues.mp3
+68:J0yner Lucas - 508-507-2209 - 2017/06 - Just Like You.mp3
+69:J0yner Lucas - 508-507-2209 - 2017/07 - Just Because.mp3
+70:J0yner Lucas - 508-507-2209 - 2017/08 - Lullaby.mp3
+71:J0yner Lucas - 508-507-2209 - 2017/09 - Way To Go (feat. Snoh Aalegra).mp3
+72:J0yner Lucas - 508-507-2209 - 2017/10 - Look What You Made Me Do (feat. Stephion Don).mp3
+73:J0yner Lucas - 508-507-2209 - 2017/11 - We Gon Be Alright.mp3
+74:J0yner Lucas - 508-507-2209 - 2017/12 - Forever.mp3
+75:J0yner Lucas - 508-507-2209 - 2017/13 - I Need More.mp3
+76:J0yner Lucas - 508-507-2209 - 2017/14 - Literally.mp3
+77:J0yner Lucas - 508-507-2209 - 2017/15 - Sorry.mp3
+78:J0yner Lucas - 508-507-2209 - 2017/16 - One Lonely Night.mp3
+79:Elliott Smith/Elliott Smith/01 Needle In The Hay.mp3
+80:Elliott Smith/Elliott Smith/02 Christian Brothers.mp3
+81:Elliott Smith/Elliott Smith/03 Clementine.mp3
+82:Elliott Smith/Elliott Smith/04 Southern Belle.mp3
+83:Elliott Smith/Elliott Smith/05 Single File.mp3
+84:Elliott Smith/Elliott Smith/06 Coming Up Roses.mp3
+85:Elliott Smith/Elliott Smith/07 Satellite.mp3
+86:Elliott Smith/Elliott Smith/08 Alphabet Town.mp3
+87:Elliott Smith/Elliott Smith/09 St. Ides Heaven.mp3
+88:Elliott Smith/Elliott Smith/10 Good To Go.mp3
+89:Elliott Smith/Elliott Smith/11 The White Lady Loves You More.mp3
+90:Elliott Smith/Elliott Smith/12 The Biggest Lie.mp3
+91:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/01 - Drake - Tuscan Leather.mp3
+92:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/02 - Drake - Furthest Thing.mp3
+93:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/03 - Drake - Started From The Bottom.mp3
+94:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/04 - Drake - Wu-Tang Forever.mp3
+95:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/05 - Drake - Own It.mp3
+96:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/06 - Drake - Worst Behavior.mp3
+97:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/07 - Drake - From Time (Feat. Jhene Aiko).mp3
+98:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/08 - Drake - Hold On, We're Going Home (Feat. Majid Jordan).mp3
+99:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/09 - Drake - Connect.mp3
+100:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/10 - Drake - The Language.mp3
+101:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/11 - Drake - 305 To My City (Feat. Detail).mp3
+102:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/12 - Drake - Too Much (Feat. Sampha).mp3
+103:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/13 - Drake - Pound Cake-Paris Morton Music 2 (Feat. Jay-Z).mp3
+104:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/14 - Drake - Come Thru.mp3
+105:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/15 - Drake - All Me (Feat. Big Sean & 2 Chainz).mp3
+106:Drake - Nothing Was The Same (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/16 - Drake - The Motion (Feat. Sampha).mp3
+playlist_end
